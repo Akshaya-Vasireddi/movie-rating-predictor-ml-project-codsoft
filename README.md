@@ -12,6 +12,9 @@ Predict IMDb ratings for Indian movies using Machine Learning.
 🔗 [Open App](https://movie-rating-predictor-ml-project-codsoft-9sxcwzafhiz8xkuddtnf.streamlit.app/)
 
 ---
+## 📓 Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akshaya-Vasireddi/movie-rating-predictor-ml-project-codsoft/blob/main/movie_rating_prediction.ipynb)
 
 ## 📌 About
 
