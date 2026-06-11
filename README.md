@@ -9,7 +9,7 @@ Predict IMDb ratings for Indian movies using Machine Learning.
 
 ## 🚀 Live Demo
 
-🔗 [Open App](https://movie-rating-predictor-ml-project-codsoft-9sxcwzafhiz8xkuddtnf.streamlit.app/)
+🔗 [Open Live Demo](https://movie-rating-predictor-ml-project-codsoft-9sxcwzafhiz8xkuddtnf.streamlit.app/)
 
 ---
 ## 📓 Notebook
@@ -83,6 +83,22 @@ This app predicts the IMDb rating of an Indian movie based on details like the d
 > A film by a top-rated director can score ~1.5 points higher than average.
 
 ---
+## 📊 Some Project Previews
+<img width="1218" height="403" alt="Screenshot from 2026-06-11 13-40-00" src="https://github.com/user-attachments/assets/3dbed707-4d61-4bbd-a7a6-ca71ccbec8d4" />
+
+<img width="1218" height="450" alt="Screenshot from 2026-06-11 13-40-42" src="https://github.com/user-attachments/assets/648f0d38-0d63-4c18-92d2-107ed701c009" />
+
+<img width="1218" height="450" alt="Screenshot from 2026-06-11 13-41-11" src="https://github.com/user-attachments/assets/9a98855d-17c8-4f80-86e2-a3d2d18c94a7" />
+
+<img width="1218" height="450" alt="Screenshot from 2026-06-11 13-41-19" src="https://github.com/user-attachments/assets/08a75119-906e-49ab-aa53-115c0918ff4a" />
+
+<img width="1218" height="450" alt="Screenshot from 2026-06-11 13-41-35" src="https://github.com/user-attachments/assets/95b1a301-649b-40cf-aedb-cbbc1108c2af" />
+
+<img width="1182" height="550" alt="newplot(1)" src="https://github.com/user-attachments/assets/5c2f3931-9a3f-4fcc-8bc5-abbc9b49dfde" />
+
+<img width="1182" height="500" alt="newplot(2)" src="https://github.com/user-attachments/assets/f769e6ee-297b-48a3-a676-902c6fd4ce53" />
+
+
 
 ## 👩‍💻 Author
 
